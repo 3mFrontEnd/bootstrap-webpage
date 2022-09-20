@@ -1,0 +1,21 @@
+html, body{
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+    /* ASSIGN the color and sizes for avoid hard coding */
+:root{
+    --primary-color: #172cbadf;
+    --primary-color2: #4408bdb5;
+    --title-color: #181515;
+    --text-color: #615f5f;  
+    --border-color: #3f3c3c17;  
+    --gradient-color: linear-gradient(90deg, #152dc4df 0%, #4103bbb5 100%);
+    --shadow-color:  0px 10px 30px rgba(118, 85, 225, 0.3);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+   
+
+
+    --NotoSerif: 'NotoSerif', cursive;
+} 
