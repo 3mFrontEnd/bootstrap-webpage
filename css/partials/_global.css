@@ -72,3 +72,17 @@
     z-index: -1;
     border-radius: 4px;
 }
+
+
+p.para{
+    color: var(--text-color);
+    font: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: var(--NotoSerif);
+}
+
+.font-notoSerif{
+    font-family: var(--NotoSerif);
+}
