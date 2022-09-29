@@ -86,3 +86,11 @@ p.para{
 .font-notoSerif{
     font-family: var(--NotoSerif);
 }
+
+.title-h1{
+    font: normal;
+    font-weight: bold;
+    font-size: 39px;
+    line-height: 39px;
+    font-family: var(--NotoSerif);
+}
