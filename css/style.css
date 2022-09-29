@@ -245,5 +245,5 @@ button:hover,
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
-    filter: brightness(1.41)drop-shadow(2px 7px 33px #a6a3a3);
+    filter: brightness(1.2)drop-shadow(2px 7px 33px #323131);
 }
