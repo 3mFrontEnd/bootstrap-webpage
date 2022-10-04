@@ -94,3 +94,15 @@ p.para{
     line-height: 39px;
     font-family: var(--NotoSerif);
 }
+
+.navbar_fixed{
+    position: fixed;
+    width: 100%;
+    top: -1px;
+    left: 0;
+    right: 0;
+    background: white;
+    box-shadow: var(--box-shadow);
+    z-index: 999;
+    transition: background .5s ease;
+}
